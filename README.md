@@ -6,6 +6,8 @@ Alexandra Pinedo //
 Yue Qian //
 Lia Eggleston
 
+![TeachTech logo](https://cdn.glitch.com/657c802a-cd26-4b29-aa9b-c73e5b811187%2FTTlogo.png?v=1607276919929)
+
 Purpose: We found that one of virtual teachers' largest pain points was finding online teaching resources easily, so we facilitated a survey to conduct user research. We wanted to help relieve teachers' stress and allow them to maximize their class time. 
 
 TeachTech was built to be a one stop shop that matches teachers with relevant resources, YouTube Videos, teaching tools, and curriculums. In addition, our example curriculum includes a tech-for-teaching example game that can help kids with staying engaged in a virtual setting. The Story Game encourages creativity while teaching English and writing, and is recommended especially for kids learning English as a second language. Enjoy!
